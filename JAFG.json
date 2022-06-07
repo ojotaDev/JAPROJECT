@@ -1,0 +1,21 @@
+{
+ "Data":[
+   {
+    "Condition": "Creating the new FJA project"
+    ,"Dato" : "Hola bro"
+    ,"ModeOnline" : "true"
+    ,"ModeRoyale" : "true"
+   }
+ ]
+ ,"DataTables":[
+    {
+      "ChestV1": "Default" 
+    }
+   ]
+   ,"Gadgets":[
+    {
+       "Jackal" : "true"
+      ,"JackalOnline" : "true"
+    }
+   ]
+}
