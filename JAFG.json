@@ -3,8 +3,8 @@
    {
     "Condition": "Creating the new FJA project"
     ,"Dato" : "Hola bro"
-    ,"ModeOnline" : "true"
-    ,"ModeRoyale" : "false"
+    ,"ModeOnline" : "false"
+    ,"ModeRoyale" : "true"
    }
  ]
  ,"DataTables":[
