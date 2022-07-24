@@ -1,21 +1,26 @@
 {
- "Data":[
-   {
-    "Condition": "Creating the new FJA project"
-    ,"Dato" : "Hello my buddy"
-    ,"ModeOnline" : "true"
-    ,"ModeRoyale" : "true"
-   }
- ]
- ,"DataTables":[
+  "Data": [
     {
-      "ChestV1": "Default" 
+      "Condition": "Creating the new FJA project",
+      "Dato": "Hello my buddy",
+      "ModeOnline": "false",
+      "ModeRoyale": "true"
     }
-   ]
-   ,"Gadgets":[
+  ],
+  "DataTables": [
     {
-       "Jackal" : "true"
-      ,"JackalOnline" : "true"
+      "ChestV1": "Default"
     }
-   ]
+  ],
+  "Gadgets": [
+    {
+      "Jackal": "true",
+      "JackalOnline": "true"
+    }
+  ],
+  "News": [
+    {
+      "Name": "Welcome to FFG jaum and JA"
+    }
+  ]
 }
