@@ -22,5 +22,11 @@
     {
       "NewsName": "Welcome to FFG jaum and JA"
     }
+  ],
+  "GameData": [
+    {
+      "Chapter": "CHAPTER 2"
+      "Season": "SEASON 1"
+    }
   ]
 }
